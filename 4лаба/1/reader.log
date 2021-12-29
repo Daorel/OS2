@@ -1,0 +1,308 @@
+3790265 | 6892 reader: ready to read!
+3790265 | 6892 reader: waiting for read semaphore...
+3790265 | 4084 reader: ready to read!
+3790265 | 4084 reader: waiting for read semaphore...
+3790265 | 11656 reader: ready to read!
+3790265 | 4280 reader: ready to read!
+3790265 | 11504 reader: ready to read!
+3790265 | 11656 reader: waiting for read semaphore...
+3790265 | 4280 reader: waiting for read semaphore...
+3790265 | 11504 reader: waiting for read semaphore...
+3790265 | 9692 reader: ready to read!
+3790265 | 9692 reader: waiting for read semaphore...
+3790265 | 9676 reader: ready to read!
+3790265 | 9676 reader: waiting for read semaphore...
+3790265 | 11800 reader: ready to read!
+3790265 | 11800 reader: waiting for read semaphore...
+3790281 | 5772 reader: ready to read!
+3790281 | 8148 reader: ready to read!
+3790281 | 5828 reader: ready to read!
+3790281 | 11736 reader: ready to read!
+3790281 | 5772 reader: waiting for read semaphore...
+3790281 | 8148 reader: waiting for read semaphore...
+3790281 | 5828 reader: waiting for read semaphore...
+3790281 | 11736 reader: waiting for read semaphore...
+3790281 | 11776 reader: ready to read!
+3790281 | 11776 reader: waiting for read semaphore...
+3790281 | 13152 reader: ready to read!
+3790281 | 13152 reader: waiting for read semaphore...
+3790812 | 6892 reader: reading page #0
+3791046 | 4084 reader: reading page #2
+3791109 | 11656 reader: reading page #10
+3791203 | 4280 reader: reading page #8
+3791234 | 11504 reader: reading page #5
+3791250 | 9692 reader: reading page #3
+3791265 | 9676 reader: reading page #4
+3791312 | 11800 reader: reading page #7
+3791343 | 5772 reader: reading page #1
+3791375 | 8148 reader: reading page #6
+3791437 | 5828 reader: reading page #9
+3791562 | 11736 reader: reading page #12
+3791718 | 4280 reader: read the page #8. Release writer's semaphore
+3791718 | 11776 reader: reading page #11
+3791718 | 4280 reader: waiting for read semaphore...
+3791859 | 6892 reader: read the page #0. Release writer's semaphore
+3791859 | 6892 reader: waiting for read semaphore...
+3791921 | 4084 reader: read the page #2. Release writer's semaphore
+3791937 | 4084 reader: waiting for read semaphore...
+3791953 | 11656 reader: read the page #10. Release writer's semaphore
+3791953 | 11656 reader: waiting for read semaphore...
+3792015 | 5828 reader: read the page #9. Release writer's semaphore
+3792015 | 5828 reader: waiting for read semaphore...
+3792406 | 9676 reader: read the page #4. Release writer's semaphore
+3792406 | 9676 reader: waiting for read semaphore...
+3792437 | 9692 reader: read the page #3. Release writer's semaphore
+3792453 | 9692 reader: waiting for read semaphore...
+3792531 | 8148 reader: read the page #6. Release writer's semaphore
+3792546 | 8148 reader: waiting for read semaphore...
+3792578 | 11504 reader: read the page #5. Release writer's semaphore
+3792578 | 11504 reader: waiting for read semaphore...
+3792609 | 13152 reader: reading page #0
+3792625 | 11800 reader: read the page #7. Release writer's semaphore
+3792625 | 11800 reader: waiting for read semaphore...
+3792640 | 4280 reader: reading page #8
+3792656 | 11736 reader: read the page #12. Release writer's semaphore
+3792656 | 6892 reader: reading page #9
+3792671 | 11736 reader: waiting for read semaphore...
+3792734 | 5772 reader: read the page #1. Release writer's semaphore
+3792734 | 5772 reader: waiting for read semaphore...
+3792890 | 4084 reader: reading page #10
+3792953 | 11776 reader: read the page #11. Release writer's semaphore
+3792968 | 11776 reader: waiting for read semaphore...
+3793078 | 11656 reader: reading page #2
+3793140 | 5828 reader: reading page #3
+3793218 | 6892 reader: read the page #9. Release writer's semaphore
+3793234 | 6892 reader: waiting for read semaphore...
+3793312 | 9676 reader: reading page #12
+3793328 | 13152 reader: read the page #0. Release writer's semaphore
+3793343 | 13152 reader: waiting for read semaphore...
+3793421 | 9692 reader: reading page #1
+3793453 | 8148 reader: reading page #6
+3793625 | 11504 reader: reading page #5
+3793640 | 11800 reader: reading page #4
+3793656 | 11656 reader: read the page #2. Release writer's semaphore
+3793671 | 11656 reader: waiting for read semaphore...
+3793671 | 11736 reader: reading page #11
+3793765 | 4280 reader: read the page #8. Release writer's semaphore
+3793765 | 4280 reader: waiting for read semaphore...
+3793875 | 5772 reader: reading page #7
+3794187 | 11776 reader: reading page #2
+3794250 | 4084 reader: read the page #10. Release writer's semaphore
+3794265 | 4084 reader: waiting for read semaphore...
+3794359 | 6892 reader: reading page #0
+3794421 | 5828 reader: read the page #3. Release writer's semaphore
+3794437 | 5828 reader: waiting for read semaphore...
+3794468 | 9676 reader: read the page #12. Release writer's semaphore
+3794484 | 9676 reader: waiting for read semaphore...
+3794531 | 13152 reader: reading page #9
+3794593 | 8148 reader: read the page #6. Release writer's semaphore
+3794609 | 8148 reader: waiting for read semaphore...
+3794734 | 9692 reader: read the page #1. Release writer's semaphore
+3794734 | 9692 reader: waiting for read semaphore...
+3794859 | 11504 reader: read the page #5. Release writer's semaphore
+3794859 | 11504 reader: waiting for read semaphore...
+3794890 | 11800 reader: read the page #4. Release writer's semaphore
+3794906 | 11800 reader: waiting for read semaphore...
+3795031 | 11656 reader: reading page #8
+3795078 | 5772 reader: read the page #7. Release writer's semaphore
+3795093 | 5772 reader: waiting for read semaphore...
+3795093 | 4280 reader: reading page #3
+3795156 | 11736 reader: read the page #11. Release writer's semaphore
+3795171 | 11736 reader: waiting for read semaphore...
+3795203 | 4084 reader: reading page #6
+3795421 | 5828 reader: reading page #12
+3795484 | 9676 reader: reading page #10
+3795546 | 8148 reader: reading page #1
+3795593 | 6892 reader: read the page #0. Release writer's semaphore
+3795609 | 6892 reader exiting
+3795625 | 11776 reader: read the page #2. Release writer's semaphore
+3795640 | 13152 reader: read the page #9. Release writer's semaphore
+3795640 | 11776 reader: waiting for read semaphore...
+3795640 | 13152 reader: waiting for read semaphore...
+3795671 | 9692 reader: reading page #4
+3795718 | 11504 reader: reading page #5
+3795750 | 4280 reader: read the page #3. Release writer's semaphore
+3795750 | 4280 reader exiting
+3795875 | 11800 reader: reading page #3
+3795890 | 4084 reader: read the page #6. Release writer's semaphore
+3795890 | 4084 reader exiting
+3795906 | 11656 reader: read the page #8. Release writer's semaphore
+3795921 | 11656 reader exiting
+3796093 | 8148 reader: read the page #1. Release writer's semaphore
+3796109 | 5772 reader: reading page #1
+3796109 | 8148 reader exiting
+3796218 | 11736 reader: reading page #2
+3796531 | 11776 reader: reading page #6
+3796609 | 5828 reader: read the page #12. Release writer's semaphore
+3796625 | 5828 reader exiting
+3796750 | 9676 reader: read the page #10. Release writer's semaphore
+3796765 | 9676 reader exiting
+3796859 | 9692 reader: read the page #4. Release writer's semaphore
+3796859 | 9692 reader exiting
+3796937 | 5772 reader: read the page #1. Release writer's semaphore
+3796953 | 5772 reader exiting
+3796984 | 11504 reader: read the page #5. Release writer's semaphore
+3797000 | 11504 reader exiting
+3797093 | 13152 reader: reading page #0
+3797187 | 11776 reader: read the page #6. Release writer's semaphore
+3797203 | 11776 reader exiting
+3797203 | 11736 reader: read the page #2. Release writer's semaphore
+3797218 | 11736 reader exiting
+3797296 | 11800 reader: read the page #3. Release writer's semaphore
+3797312 | 11800 reader exiting
+3797843 | 13152 reader: read the page #0. Release writer's semaphore
+3797859 | 13152 reader exiting
+1298500 | 7484 reader: ready to read!
+1298515 | 7108 reader: ready to read!
+1298515 | 12008 reader: ready to read!
+1298515 | 12208 reader: ready to read!
+1298515 | 11412 reader: ready to read!
+1298515 | 11484 reader: ready to read!
+1298515 | 10196 reader: ready to read!
+1298515 | 11220 reader: ready to read!
+1298515 | 10432 reader: ready to read!
+1298515 | 10952 reader: ready to read!
+1298515 | 11696 reader: ready to read!
+1298515 | 7484 reader: waiting for read semaphore...
+1298515 | 7108 reader: waiting for read semaphore...
+1298515 | 12008 reader: waiting for read semaphore...
+1298515 | 12208 reader: waiting for read semaphore...
+1298515 | 11412 reader: waiting for read semaphore...
+1298515 | 4348 reader: ready to read!
+1298515 | 11484 reader: waiting for read semaphore...
+1298515 | 10196 reader: waiting for read semaphore...
+1298515 | 11220 reader: waiting for read semaphore...
+1298515 | 10432 reader: waiting for read semaphore...
+1298515 | 10952 reader: waiting for read semaphore...
+1298515 | 11696 reader: waiting for read semaphore...
+1298515 | 4348 reader: waiting for read semaphore...
+1298515 | 6672 reader: ready to read!
+1298515 | 6672 reader: waiting for read semaphore...
+1298515 | 2496 reader: ready to read!
+1298515 | 2496 reader: waiting for read semaphore...
+1299046 | 7484 reader: reading page #12
+1299078 | 7108 reader: reading page #10
+1299171 | 12008 reader: reading page #9
+1299296 | 12208 reader: reading page #6
+1299390 | 11412 reader: reading page #11
+1299578 | 11484 reader: reading page #0
+1299609 | 10196 reader: reading page #3
+1299781 | 11220 reader: reading page #4
+1299796 | 10432 reader: reading page #5
+1299812 | 10952 reader: reading page #8
+1299828 | 7108 reader: read the page #10. Release writer's semaphore
+1299828 | 11696 reader: reading page #10
+1299843 | 7108 reader: waiting for read semaphore...
+1299843 | 4348 reader: reading page #7
+1299875 | 6672 reader: reading page #2
+1299937 | 12208 reader: read the page #6. Release writer's semaphore
+1299937 | 12208 reader: waiting for read semaphore...
+1300015 | 7484 reader: read the page #12. Release writer's semaphore
+1300031 | 7484 reader: waiting for read semaphore...
+1300156 | 12008 reader: read the page #9. Release writer's semaphore
+1300171 | 12008 reader: waiting for read semaphore...
+1300343 | 10952 reader: read the page #8. Release writer's semaphore
+1300359 | 10952 reader: waiting for read semaphore...
+1300390 | 2496 reader: reading page #1
+1300421 | 11412 reader: read the page #11. Release writer's semaphore
+1300437 | 11412 reader: waiting for read semaphore...
+1300593 | 4348 reader: read the page #7. Release writer's semaphore
+1300593 | 4348 reader: waiting for read semaphore...
+1300640 | 10432 reader: read the page #5. Release writer's semaphore
+1300656 | 10432 reader: waiting for read semaphore...
+1300671 | 10196 reader: read the page #3. Release writer's semaphore
+1300687 | 10196 reader: waiting for read semaphore...
+1300796 | 11696 reader: read the page #10. Release writer's semaphore
+1300796 | 11696 reader: waiting for read semaphore...
+1300859 | 11484 reader: read the page #0. Release writer's semaphore
+1300875 | 11484 reader: waiting for read semaphore...
+1300921 | 7108 reader: reading page #6
+1301078 | 2496 reader: read the page #1. Release writer's semaphore
+1301093 | 2496 reader: waiting for read semaphore...
+1301140 | 12208 reader: reading page #7
+1301140 | 7484 reader: reading page #8
+1301187 | 12008 reader: reading page #12
+1301203 | 11220 reader: read the page #4. Release writer's semaphore
+1301203 | 6672 reader: read the page #2. Release writer's semaphore
+1301203 | 11220 reader: waiting for read semaphore...
+1301218 | 6672 reader: waiting for read semaphore...
+1301296 | 10952 reader: reading page #9
+1301578 | 11412 reader: reading page #5
+1301609 | 7108 reader: read the page #6. Release writer's semaphore
+1301625 | 7108 reader: waiting for read semaphore...
+1301781 | 4348 reader: reading page #2
+1301828 | 12208 reader: read the page #7. Release writer's semaphore
+1301843 | 12208 reader: waiting for read semaphore...
+1301843 | 10432 reader: reading page #0
+1301859 | 10196 reader: reading page #11
+1302000 | 7484 reader: read the page #8. Release writer's semaphore
+1302000 | 7484 reader: waiting for read semaphore...
+1302015 | 11696 reader: reading page #1
+1302031 | 11484 reader: reading page #10
+1302109 | 2496 reader: reading page #4
+1302109 | 11220 reader: reading page #3
+1302109 | 12008 reader: read the page #12. Release writer's semaphore
+1302125 | 12008 reader: waiting for read semaphore...
+1302406 | 10952 reader: read the page #9. Release writer's semaphore
+1302421 | 10952 reader: waiting for read semaphore...
+1302531 | 6672 reader: reading page #7
+1302546 | 11696 reader: read the page #1. Release writer's semaphore
+1302562 | 11696 reader: waiting for read semaphore...
+1302640 | 10196 reader: read the page #11. Release writer's semaphore
+1302656 | 10196 reader: waiting for read semaphore...
+1302843 | 7108 reader: reading page #8
+1302890 | 11484 reader: read the page #10. Release writer's semaphore
+1302890 | 4348 reader: read the page #2. Release writer's semaphore
+1302906 | 11484 reader: waiting for read semaphore...
+1302906 | 4348 reader: waiting for read semaphore...
+1302984 | 11412 reader: read the page #5. Release writer's semaphore
+1303000 | 11412 reader: waiting for read semaphore...
+1303062 | 12208 reader: reading page #6
+1303125 | 2496 reader: read the page #4. Release writer's semaphore
+1303140 | 2496 reader: waiting for read semaphore...
+1303140 | 7484 reader: reading page #12
+1303203 | 11220 reader: read the page #3. Release writer's semaphore
+1303218 | 11220 reader: waiting for read semaphore...
+1303343 | 10432 reader: read the page #0. Release writer's semaphore
+1303359 | 10432 reader: waiting for read semaphore...
+1303359 | 12008 reader: reading page #9
+1303562 | 10952 reader: reading page #11
+1303734 | 6672 reader: read the page #7. Release writer's semaphore
+1303734 | 11696 reader: reading page #1
+1303750 | 6672 reader: waiting for read semaphore...
+1303765 | 10196 reader: reading page #2
+1303796 | 12208 reader: read the page #6. Release writer's semaphore
+1303812 | 12208 reader exiting
+1303906 | 7484 reader: read the page #12. Release writer's semaphore
+1303921 | 7484 reader exiting
+1303984 | 12008 reader: read the page #9. Release writer's semaphore
+1303984 | 12008 reader exiting
+1304000 | 11484 reader: reading page #3
+1304078 | 4348 reader: reading page #9
+1304109 | 7108 reader: read the page #8. Release writer's semaphore
+1304125 | 7108 reader exiting
+1304203 | 11412 reader: reading page #5
+1304281 | 10196 reader: read the page #2. Release writer's semaphore
+1304296 | 10196 reader exiting
+1304328 | 2496 reader: reading page #0
+1304421 | 11220 reader: reading page #2
+1304609 | 10432 reader: reading page #4
+1304734 | 6672 reader: reading page #6
+1304968 | 10952 reader: read the page #11. Release writer's semaphore
+1304984 | 10952 reader exiting
+1305046 | 11696 reader: read the page #1. Release writer's semaphore
+1305062 | 11696 reader exiting
+1305234 | 6672 reader: read the page #6. Release writer's semaphore
+1305250 | 6672 reader exiting
+1305312 | 4348 reader: read the page #9. Release writer's semaphore
+1305312 | 11220 reader: read the page #2. Release writer's semaphore
+1305312 | 11220 reader exiting
+1305312 | 4348 reader exiting
+1305375 | 11412 reader: read the page #5. Release writer's semaphore
+1305390 | 11412 reader exiting
+1305437 | 11484 reader: read the page #3. Release writer's semaphore
+1305437 | 11484 reader exiting
+1305781 | 10432 reader: read the page #4. Release writer's semaphore
+1305781 | 10432 reader exiting
+1305796 | 2496 reader: read the page #0. Release writer's semaphore
+1305796 | 2496 reader exiting

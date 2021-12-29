@@ -1,0 +1,308 @@
+3790234 | 12800 writer: ready to write!
+3790234 | 12800 writer: waiting for writer's semaphore
+3790234 | 12800 writer: writing page number to page #0
+3790234 | 9664 writer: ready to write!
+3790234 | 13180 writer: ready to write!
+3790234 | 9664 writer: waiting for writer's semaphore
+3790234 | 13180 writer: waiting for writer's semaphore
+3790234 | 9664 writer: writing page number to page #1
+3790234 | 13180 writer: writing page number to page #2
+3790234 | 13240 writer: ready to write!
+3790234 | 13240 writer: waiting for writer's semaphore
+3790234 | 13240 writer: writing page number to page #3
+3790234 | 13244 writer: ready to write!
+3790234 | 13244 writer: waiting for writer's semaphore
+3790234 | 13244 writer: writing page number to page #4
+3790250 | 13236 writer: ready to write!
+3790250 | 13280 writer: ready to write!
+3790250 | 13236 writer: waiting for writer's semaphore
+3790250 | 13236 writer: writing page number to page #5
+3790250 | 13280 writer: waiting for writer's semaphore
+3790250 | 13280 writer: writing page number to page #6
+3790250 | 13260 writer: ready to write!
+3790250 | 13260 writer: waiting for writer's semaphore
+3790250 | 13260 writer: writing page number to page #7
+3790250 | 11080 writer: ready to write!
+3790250 | 11080 writer: waiting for writer's semaphore
+3790250 | 11080 writer: writing page number to page #8
+3790250 | 12072 writer: ready to write!
+3790250 | 12072 writer: waiting for writer's semaphore
+3790250 | 12072 writer: writing page number to page #9
+3790250 | 10440 writer: ready to write!
+3790250 | 10440 writer: waiting for writer's semaphore
+3790250 | 10440 writer: writing page number to page #10
+3790250 | 2124 writer: ready to write!
+3790250 | 2124 writer: waiting for writer's semaphore
+3790250 | 2124 writer: writing page number to page #11
+3790250 | 5136 writer: ready to write!
+3790250 | 5136 writer: waiting for writer's semaphore
+3790250 | 5136 writer: writing page number to page #12
+3790250 | 2260 writer: ready to write!
+3790250 | 2260 writer: waiting for writer's semaphore
+3790812 | 12800 writer: release reader's semaphore #0
+3790812 | 12800 writer: waiting for writer's semaphore
+3791046 | 13180 writer: release reader's semaphore #2
+3791062 | 13180 writer: waiting for writer's semaphore
+3791109 | 10440 writer: release reader's semaphore #10
+3791125 | 10440 writer: waiting for writer's semaphore
+3791203 | 11080 writer: release reader's semaphore #8
+3791203 | 11080 writer: waiting for writer's semaphore
+3791234 | 13236 writer: release reader's semaphore #5
+3791250 | 13240 writer: release reader's semaphore #3
+3791250 | 13236 writer: waiting for writer's semaphore
+3791265 | 13240 writer: waiting for writer's semaphore
+3791265 | 13244 writer: release reader's semaphore #4
+3791281 | 13244 writer: waiting for writer's semaphore
+3791312 | 13260 writer: release reader's semaphore #7
+3791328 | 13260 writer: waiting for writer's semaphore
+3791343 | 9664 writer: release reader's semaphore #1
+3791343 | 9664 writer: waiting for writer's semaphore
+3791375 | 13280 writer: release reader's semaphore #6
+3791390 | 13280 writer: waiting for writer's semaphore
+3791437 | 12072 writer: release reader's semaphore #9
+3791453 | 12072 writer: waiting for writer's semaphore
+3791562 | 5136 writer: release reader's semaphore #12
+3791578 | 5136 writer: waiting for writer's semaphore
+3791718 | 2260 writer: writing page number to page #8
+3791718 | 2124 writer: release reader's semaphore #11
+3791734 | 2124 writer: waiting for writer's semaphore
+3791859 | 12800 writer: writing page number to page #0
+3791921 | 13180 writer: writing page number to page #2
+3791953 | 10440 writer: writing page number to page #10
+3792015 | 11080 writer: writing page number to page #9
+3792406 | 13236 writer: writing page number to page #4
+3792437 | 13240 writer: writing page number to page #3
+3792531 | 13244 writer: writing page number to page #6
+3792578 | 13260 writer: writing page number to page #5
+3792609 | 12800 writer: release reader's semaphore #0
+3792625 | 12800 writer: waiting for writer's semaphore
+3792625 | 9664 writer: writing page number to page #7
+3792640 | 2260 writer: release reader's semaphore #8
+3792640 | 2260 writer: waiting for writer's semaphore
+3792656 | 13280 writer: writing page number to page #12
+3792656 | 11080 writer: release reader's semaphore #9
+3792671 | 11080 writer: waiting for writer's semaphore
+3792734 | 12072 writer: writing page number to page #1
+3792890 | 10440 writer: release reader's semaphore #10
+3792906 | 10440 writer: waiting for writer's semaphore
+3792953 | 5136 writer: writing page number to page #11
+3793078 | 13180 writer: release reader's semaphore #2
+3793093 | 13180 writer: waiting for writer's semaphore
+3793140 | 13240 writer: release reader's semaphore #3
+3793140 | 13240 writer: waiting for writer's semaphore
+3793218 | 2124 writer: writing page number to page #9
+3793312 | 13280 writer: release reader's semaphore #12
+3793312 | 13280 writer: waiting for writer's semaphore
+3793328 | 12800 writer: writing page number to page #0
+3793421 | 12072 writer: release reader's semaphore #1
+3793437 | 12072 writer: waiting for writer's semaphore
+3793453 | 13244 writer: release reader's semaphore #6
+3793468 | 13244 writer: waiting for writer's semaphore
+3793625 | 13260 writer: release reader's semaphore #5
+3793640 | 13236 writer: release reader's semaphore #4
+3793640 | 13260 writer: waiting for writer's semaphore
+3793656 | 13236 writer: waiting for writer's semaphore
+3793656 | 2260 writer: writing page number to page #2
+3793671 | 5136 writer: release reader's semaphore #11
+3793687 | 5136 writer: waiting for writer's semaphore
+3793765 | 11080 writer: writing page number to page #8
+3793875 | 9664 writer: release reader's semaphore #7
+3793890 | 9664 writer: waiting for writer's semaphore
+3794187 | 2260 writer: release reader's semaphore #2
+3794203 | 2260 writer: waiting for writer's semaphore
+3794250 | 10440 writer: writing page number to page #10
+3794359 | 12800 writer: release reader's semaphore #0
+3794375 | 12800 writer exiting
+3794421 | 13180 writer: writing page number to page #3
+3794468 | 13240 writer: writing page number to page #12
+3794531 | 2124 writer: release reader's semaphore #9
+3794531 | 2124 writer: waiting for writer's semaphore
+3794593 | 13280 writer: writing page number to page #6
+3794734 | 12072 writer: writing page number to page #1
+3794859 | 13244 writer: writing page number to page #5
+3794890 | 13260 writer: writing page number to page #4
+3795031 | 11080 writer: release reader's semaphore #8
+3795046 | 11080 writer exiting
+3795078 | 13236 writer: writing page number to page #7
+3795093 | 13180 writer: release reader's semaphore #3
+3795109 | 13180 writer exiting
+3795156 | 5136 writer: writing page number to page #11
+3795203 | 13280 writer: release reader's semaphore #6
+3795218 | 13280 writer exiting
+3795421 | 13240 writer: release reader's semaphore #12
+3795437 | 13240 writer exiting
+3795484 | 10440 writer: release reader's semaphore #10
+3795500 | 10440 writer exiting
+3795546 | 12072 writer: release reader's semaphore #1
+3795546 | 12072 writer exiting
+3795593 | 9664 writer: writing page number to page #0
+3795625 | 2260 writer: writing page number to page #2
+3795640 | 2124 writer: writing page number to page #9
+3795671 | 13260 writer: release reader's semaphore #4
+3795687 | 13260 writer exiting
+3795718 | 13244 writer: release reader's semaphore #5
+3795734 | 13244 writer exiting
+3795875 | 5136 writer: release reader's semaphore #11
+3795890 | 5136 writer exiting
+3796109 | 13236 writer: release reader's semaphore #7
+3796109 | 13236 writer exiting
+3796218 | 2260 writer: release reader's semaphore #2
+3796218 | 2260 writer exiting
+3796531 | 2124 writer: release reader's semaphore #9
+3796546 | 2124 writer exiting
+3797093 | 9664 writer: release reader's semaphore #0
+3797093 | 9664 writer exiting
+1298468 | 11808 writer: ready to write!
+1298484 | 11428 writer: ready to write!
+1298484 | 6688 writer: ready to write!
+1298484 | 11740 writer: ready to write!
+1298484 | 10876 writer: ready to write!
+1298484 | 10268 writer: ready to write!
+1298484 | 8960 writer: ready to write!
+1298484 | 8212 writer: ready to write!
+1298484 | 3300 writer: ready to write!
+1298484 | 1880 writer: ready to write!
+1298484 | 9812 writer: ready to write!
+1298484 | 9908 writer: ready to write!
+1298484 | 11568 writer: ready to write!
+1298484 | 11572 writer: ready to write!
+1298484 | 11428 writer: waiting for writer's semaphore
+1298484 | 11808 writer: waiting for writer's semaphore
+1298484 | 6688 writer: waiting for writer's semaphore
+1298484 | 11740 writer: waiting for writer's semaphore
+1298484 | 10876 writer: waiting for writer's semaphore
+1298484 | 10268 writer: waiting for writer's semaphore
+1298484 | 8960 writer: waiting for writer's semaphore
+1298484 | 8212 writer: waiting for writer's semaphore
+1298484 | 3300 writer: waiting for writer's semaphore
+1298484 | 1880 writer: waiting for writer's semaphore
+1298484 | 9812 writer: waiting for writer's semaphore
+1298484 | 9908 writer: waiting for writer's semaphore
+1298484 | 11568 writer: waiting for writer's semaphore
+1298484 | 11572 writer: waiting for writer's semaphore
+1298484 | 11428 writer: writing page number to page #0
+1298484 | 11808 writer: writing page number to page #1
+1298500 | 6688 writer: writing page number to page #2
+1298500 | 11740 writer: writing page number to page #3
+1298500 | 10876 writer: writing page number to page #4
+1298500 | 10268 writer: writing page number to page #5
+1298500 | 8960 writer: writing page number to page #6
+1298500 | 8212 writer: writing page number to page #7
+1298500 | 3300 writer: writing page number to page #8
+1298500 | 1880 writer: writing page number to page #9
+1298500 | 9812 writer: writing page number to page #10
+1298500 | 9908 writer: writing page number to page #11
+1298500 | 11568 writer: writing page number to page #12
+1299046 | 11568 writer: release reader's semaphore #12
+1299046 | 11568 writer: waiting for writer's semaphore
+1299078 | 9812 writer: release reader's semaphore #10
+1299093 | 9812 writer: waiting for writer's semaphore
+1299171 | 1880 writer: release reader's semaphore #9
+1299187 | 1880 writer: waiting for writer's semaphore
+1299296 | 8960 writer: release reader's semaphore #6
+1299296 | 8960 writer: waiting for writer's semaphore
+1299390 | 9908 writer: release reader's semaphore #11
+1299406 | 9908 writer: waiting for writer's semaphore
+1299578 | 11428 writer: release reader's semaphore #0
+1299593 | 11428 writer: waiting for writer's semaphore
+1299609 | 11740 writer: release reader's semaphore #3
+1299625 | 11740 writer: waiting for writer's semaphore
+1299781 | 10876 writer: release reader's semaphore #4
+1299796 | 10268 writer: release reader's semaphore #5
+1299796 | 10876 writer: waiting for writer's semaphore
+1299812 | 10268 writer: waiting for writer's semaphore
+1299812 | 3300 writer: release reader's semaphore #8
+1299828 | 3300 writer: waiting for writer's semaphore
+1299828 | 11808 writer: release reader's semaphore #1
+1299828 | 11572 writer: writing page number to page #1
+1299843 | 11808 writer: waiting for writer's semaphore
+1299843 | 8212 writer: release reader's semaphore #7
+1299859 | 8212 writer: waiting for writer's semaphore
+1299875 | 6688 writer: release reader's semaphore #2
+1299890 | 6688 writer: waiting for writer's semaphore
+1299937 | 11568 writer: writing page number to page #6
+1300015 | 9812 writer: writing page number to page #12
+1300156 | 1880 writer: writing page number to page #9
+1300343 | 8960 writer: writing page number to page #8
+1300390 | 11572 writer: release reader's semaphore #1
+1300406 | 11572 writer: waiting for writer's semaphore
+1300421 | 9908 writer: writing page number to page #11
+1300593 | 11428 writer: writing page number to page #7
+1300640 | 11740 writer: writing page number to page #5
+1300671 | 10876 writer: writing page number to page #3
+1300796 | 10268 writer: writing page number to page #10
+1300859 | 3300 writer: writing page number to page #0
+1300921 | 11568 writer: release reader's semaphore #6
+1300937 | 11568 writer: waiting for writer's semaphore
+1301078 | 11808 writer: writing page number to page #1
+1301140 | 11428 writer: release reader's semaphore #7
+1301140 | 8960 writer: release reader's semaphore #8
+1301140 | 11428 writer: waiting for writer's semaphore
+1301156 | 8960 writer: waiting for writer's semaphore
+1301187 | 9812 writer: release reader's semaphore #12
+1301187 | 9812 writer: waiting for writer's semaphore
+1301203 | 8212 writer: writing page number to page #4
+1301203 | 6688 writer: writing page number to page #2
+1301296 | 1880 writer: release reader's semaphore #9
+1301312 | 1880 writer: waiting for writer's semaphore
+1301578 | 11740 writer: release reader's semaphore #5
+1301593 | 11740 writer: waiting for writer's semaphore
+1301609 | 11572 writer: writing page number to page #6
+1301781 | 6688 writer: release reader's semaphore #2
+1301781 | 6688 writer: waiting for writer's semaphore
+1301828 | 11568 writer: writing page number to page #7
+1301843 | 3300 writer: release reader's semaphore #0
+1301859 | 3300 writer: waiting for writer's semaphore
+1301859 | 9908 writer: release reader's semaphore #11
+1301875 | 9908 writer: waiting for writer's semaphore
+1302000 | 11428 writer: writing page number to page #8
+1302015 | 11808 writer: release reader's semaphore #1
+1302031 | 10268 writer: release reader's semaphore #10
+1302031 | 11808 writer: waiting for writer's semaphore
+1302031 | 10268 writer: waiting for writer's semaphore
+1302109 | 8212 writer: release reader's semaphore #4
+1302109 | 10876 writer: release reader's semaphore #3
+1302109 | 8960 writer: writing page number to page #12
+1302109 | 8212 writer: waiting for writer's semaphore
+1302109 | 10876 writer: waiting for writer's semaphore
+1302406 | 9812 writer: writing page number to page #9
+1302531 | 11568 writer: release reader's semaphore #7
+1302546 | 11568 writer exiting
+1302546 | 1880 writer: writing page number to page #1
+1302640 | 11740 writer: writing page number to page #11
+1302843 | 11428 writer: release reader's semaphore #8
+1302859 | 11428 writer exiting
+1302890 | 6688 writer: writing page number to page #10
+1302890 | 3300 writer: writing page number to page #2
+1302984 | 9908 writer: writing page number to page #5
+1303062 | 11572 writer: release reader's semaphore #6
+1303078 | 11572 writer: waiting for writer's semaphore
+1303125 | 11808 writer: writing page number to page #4
+1303140 | 8960 writer: release reader's semaphore #12
+1303156 | 8960 writer exiting
+1303203 | 10268 writer: writing page number to page #3
+1303343 | 8212 writer: writing page number to page #0
+1303359 | 9812 writer: release reader's semaphore #9
+1303375 | 9812 writer exiting
+1303562 | 11740 writer: release reader's semaphore #11
+1303562 | 11740 writer exiting
+1303734 | 10876 writer: writing page number to page #7
+1303734 | 1880 writer: release reader's semaphore #1
+1303750 | 1880 writer exiting
+1303765 | 3300 writer: release reader's semaphore #2
+1303781 | 3300 writer exiting
+1303796 | 11572 writer: writing page number to page #6
+1304000 | 10268 writer: release reader's semaphore #3
+1304000 | 10268 writer exiting
+1304078 | 6688 writer: release reader's semaphore #10
+1304093 | 6688 writer exiting
+1304203 | 9908 writer: release reader's semaphore #5
+1304218 | 9908 writer exiting
+1304328 | 8212 writer: release reader's semaphore #0
+1304343 | 8212 writer exiting
+1304421 | 11572 writer: release reader's semaphore #6
+1304437 | 11572 writer exiting
+1304609 | 11808 writer: release reader's semaphore #4
+1304625 | 11808 writer exiting
+1304734 | 10876 writer: release reader's semaphore #7
+1304734 | 10876 writer exiting
